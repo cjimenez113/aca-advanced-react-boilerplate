@@ -38,3 +38,4 @@ Note: The URL is always `http://localhost:4000/propertyname`. Check the file `db
 - Remove the teasers from the backend
 - Extend the `db.json` file so that it can also store the links of the menu on the side, then load the menu via REST API calls.
 - Add a remove and add functionality to the menu items
+# Advanced-react-boiler-plate
